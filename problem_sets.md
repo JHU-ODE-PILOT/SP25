@@ -9,5 +9,5 @@ category: "problem_set"
 </div>
 
 | Week Number | Dates | Resources |
-|------------:|:-----:|:----------|
+|:-----------:|:-----:|:---------:|
 | 1 | January 21st - January 24th | Problem Set |

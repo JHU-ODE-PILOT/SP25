@@ -8,12 +8,17 @@ category: "resource"
 
 - [PILOT Archives](https://jhu-ode-pilot.github.io):
     - Archived documents for Past PILOT term, feel free to check out the documents for practices purposes.
-- [Previous ODEs (MATH302) Class Page from Prof. Brown](https://math.jhu.edu/~brown/courses/f18/Syllabus302.html):
-    - This page is an archive page that Professor Brown used for his ODE class in F18. Some notes and assignments might be helpful in providing materials for previewing or reviewing the materials.
-- [Previous ODEs (MATH302) Class Page from Prof. Lindbald](https://math.jhu.edu/~lindblad/302/302.html):
-    - This page is an archive page that Professor Lindbald used for his ODE class in F14. Some notes and assignments might be helpful in providing materials for previewing or reviewing the materials.
-- [Previous Hons. ODEs (MATH306) Class Page from Prof. Bernstein](https://math.jhu.edu/~bernstein/math306/index.html):
-    - This page is an archive page that Professor Bernstein used for his Honors ODE class in F14. Some notes and assignments might be helpful in providing materials for previewing or reviewing the materials.
+- Previous Class Archives:
+    - Here are archive pages that Hopkins Professors shared for their *Differential Equations* class in the past semesters. We appreciate these professors that kindly share their resources.
+
+| Professor | Semester | Link |
+|:---------:|:--------:|:----:|
+| Prof. Dodson | Spring 2023 | [link](https://math.jhu.edu/~dodson/Math302_ODE-LectureNotes.pdf)|
+| Prof. Brown | Fall 2018 | [link](https://math.jhu.edu/~brown/courses/f18/Syllabus302.html)|
+| Prof. Lindbald | Fall 2014| [link](https://math.jhu.edu/~lindblad/302/302.html)|
+| Prof. Bernstein | Fall 2014| [link](https://math.jhu.edu/~bernstein/math306/index.html)|
+
+
 - [Pual's Online Notes for ODEs](https://tutorial.math.lamar.edu/Classes/DE/DE.aspx):
     - A popular site contributed by a professor includes notes and exercises from various classes. Note that more than ODEs can be found on this site, and the syllabus could vary among these classes.
 
