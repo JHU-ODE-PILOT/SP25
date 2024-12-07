@@ -4,14 +4,9 @@ title: "Home"
 category: "home"
 ---
 
-<div style="text-align: center; font-size: 120%;">
-  <b>PILOT Learning for</b><br>
-  <b>AS.110.302 Differential Equations</b><br>
+<div style="text-align: center; font-size: 110%;">
+  <b>Welcome to PILOT Learning for Differential Equations</b><br>
   <b>Spring, 2025</b><br>
+  *This page contains PILOT review sets, useful resources, and information.*
 </div>
 
-Any updates will be mentioned in class and on Courselore.
-
-## Instructor
-
-Notes
