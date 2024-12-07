@@ -5,7 +5,7 @@ category: "home"
 ---
 
 <div style="text-align: center; font-size: 120%;">
-  <b>PILOT</b><br>
+  <b>PILOT Learning for</b><br>
   <b>AS.110.302 Differential Equations</b><br>
   <b>Spring, 2025</b><br>
 </div>
