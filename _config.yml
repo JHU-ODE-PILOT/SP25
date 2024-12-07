@@ -1,0 +1,4 @@
+coursename: "Differential Equation PILOT"
+baseurl: "/SP25"
+markdown: kramdown
+highlighter: rouge

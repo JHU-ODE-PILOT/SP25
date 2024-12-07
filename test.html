@@ -1,0 +1,40 @@
+<!doctype html>
+
+<html>
+
+<head>
+  <title>JHU PILOT for ODEs: Spring 2025</title>
+  <meta charset="utf-8">
+  <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+
+<body>
+  <div id="content">
+    <div id="navbar_container">
+      <ul id="navbar">
+        <li><span class="csf">JHU PILOT for <br> Differential Equations</span></li>
+        <li id="navbar_home"><a href="{{site.baseurl}}/index.html">Home</a></li>
+        <li id="navbar_resources"><a href="{{site.baseurl}}/resources.html">Resources</a></li>
+        <li id="navbar_assignments"><a href="{{site.baseurl}}/assignments.html">Problem Sets</a></li>
+        <li id="navbar_assignments"><a href="{{site.baseurl}}/assignments.html">Credit</a></li>
+      </ul>
+    </div>
+
+    <hr id="headerSep">
+
+    <div id="pageTitle">{{page.title}}</div>
+
+    {{content}}
+
+    <div id="footer"></div>
+
+    <script type="text/javascript">
+      document.addEventListener('DOMContentLoaded', function() {
+        csf.pageCategory = "{{page.category}}";
+        csf.onLoad();
+      });
+    </script>
+  </div>
+</body>
+
+</html>
