@@ -29,3 +29,5 @@ category: "home"
   - Discuss with other students and/or the PILOT leader during meetings, while you may propose any questions and/or concerns if you have any.
   - Be respectful and polite to other students during the meetings. If you found any of the contents a mental challenge or uncomfortable, feel free to contact your PILOT leader or contact the Director of PILOT at [Jenna Hoffman](mailto:jhoffm71@jhu.edu).
   - More expectations can be found in this [poster](https://www.canva.com/design/DAFrnaGeRfw/LdtGRDW6jg3eoSDfowU-MQ/view?utm_content=DAFrnaGeRfw&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink).
+
+  ## Announcements
