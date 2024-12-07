@@ -4,7 +4,8 @@ title: "Resources"
 category: "resource"
 ---
 
-## General Documents
+## Archive Documents
+
 - [PILOT Archives](https://jhu-ode-pilot.github.io):
     - Archived documents for Past PILOT term, feel free to check out the documents for practices purposes.
 - [Previous ODEs (MATH302) Class Page from Prof. Brown](https://math.jhu.edu/~brown/courses/f18/Syllabus302.html):
@@ -18,12 +19,12 @@ category: "resource"
 
 ## Important Documents
 
-- Conceptual Problem Set:
+- [Conceptual Problem Set]({{site.baseurl}}/resources/Conceptual-Problem-Set.pdf):
     - A specially designed extra problem set is updated for students who are interested in mathematical proof and fun questions underlying ODEs. The extra problem set contains approximately 2 problems for each week. This set is completely voluntary, and its contents are mostly outside the scope of this class (conventionally).
-    - If you would want to discuss any of the problems, please email <a href="mailto:sguo45@jh.edu" target="_blank", style="color: #aaeeff;">James</a>.
-- Theorem Booklet:
+    - If you would want to discuss any of the problems, please contact the HPL.
+- [Theorem Booklet]({{site.baseurl}}/resources/Theorem-Booklet.pdf):
     - This document includes various definitions, theorems, and formulas about ODE that was initially compiled during Fall 2022 and adjusted up until Fall 2024. The document <i>is updated</i> to accommodate this semester.
-- Laplace Table:
+- [Laplace Table](({{site.baseurl}}/resources/Laplace_Table.pdf)):
     - This document includes a table of Laplace transformation that most instructors would provide during their assessments. This document can be a helpful tool before your instructor has provided you with their version. <i>This is not necessary this semester.</i></li>
-- Activity Slide:
+- [Activity Slide]({{site.baseurl}}/resources/Activities-Slides.pdf):
     - Here is a set of slides deck that we could be playing with when we need some engagements. Feel free to play with some of it in advance.
