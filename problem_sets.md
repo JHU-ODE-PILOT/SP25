@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "Problem Set"
-category: "problem_set"
+title: "Problem Sets"
+category: "problem_sets"
 ---
 
 <div style="text-align: center; font-size: 110%;">
