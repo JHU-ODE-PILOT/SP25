@@ -13,10 +13,10 @@ category: "resource"
 
 | Professor | Semester | Link |
 |:---------:|:--------:|:----:|
-| Prof. Dodson | Spring 2023 | [link](https://math.jhu.edu/~dodson/Math302_ODE-LectureNotes.pdf)|
-| Prof. Brown | Fall 2018 | [link](https://math.jhu.edu/~brown/courses/f18/Syllabus302.html)|
-| Prof. Lindbald | Fall 2014| [link](https://math.jhu.edu/~lindblad/302/302.html)|
-| Prof. Bernstein | Fall 2014| [link](https://math.jhu.edu/~bernstein/math306/index.html)|
+| Prof. Dodson | Spring 2023 | [Notes](https://math.jhu.edu/~dodson/Math302_ODE-LectureNotes.pdf)|
+| Prof. Brown | Fall 2018 | [Homepage](https://math.jhu.edu/~brown/courses/f18/Syllabus302.html)|
+| Prof. Lindbald | Fall 2014| [Homepage](https://math.jhu.edu/~lindblad/302/302.html)|
+| Prof. Bernstein | Fall 2014| [Homepage](https://math.jhu.edu/~bernstein/math306/index.html)|
 
 
 - [Pual's Online Notes for ODEs](https://tutorial.math.lamar.edu/Classes/DE/DE.aspx):
@@ -26,7 +26,7 @@ category: "resource"
 
 - [Conceptual Problem Set]({{site.baseurl}}/resources/Conceptual-Problem-Set.pdf):
     - A specially designed extra problem set is updated for students who are interested in mathematical proof and fun questions underlying ODEs. The extra problem set contains approximately 2 problems for each week. This set is completely voluntary, and its contents are mostly outside the scope of this class (conventionally).
-    - If you would want to discuss any of the problems, please contact the HPL.
+    - If you would like to discuss any of the problems, please contact the HPL.
 - [Theorem Booklet]({{site.baseurl}}/resources/Theorem-Booklet.pdf):
     - This document includes various definitions, theorems, and formulas about ODE that was initially compiled during Fall 2022 and adjusted up until Fall 2024. The document <i>is updated</i> to accommodate this semester.
 - [Laplace Table](({{site.baseurl}}/resources/Laplace_Table.pdf)):

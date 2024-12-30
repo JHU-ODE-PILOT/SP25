@@ -31,3 +31,5 @@ category: "home"
   - More expectations can be found in this [poster](https://www.canva.com/design/DAFrnaGeRfw/LdtGRDW6jg3eoSDfowU-MQ/view?utm_content=DAFrnaGeRfw&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink).
 
 ## Announcements
+
+- **1/6/2025.** Welcome to PILOT for Differential Equations.
