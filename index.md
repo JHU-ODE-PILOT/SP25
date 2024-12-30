@@ -13,7 +13,7 @@ category: "home"
 ## Session Information
 
 - Term: Spring 2025
-- Dates: Between January 21st and April 25th (inclusive). 
+- Dates: Between January 21st and April 24th (inclusive). 
   - Except for Spring break (March 17th - March 21st).
 - Please refer to your leader for their email, location, time, and other information.
 
