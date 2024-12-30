@@ -12,7 +12,7 @@ category: "problem_sets"
 
 | Week Number | Dates | Resources |
 |:-----------:|:-----:|:---------:|
-| **1** | **January 21st - January 24th** | [Problem Set]() |
+| **1 (Upcoming)** | January 21st - January 24th | [Problem Set]() |
 | 2 | January 27th - January 31st | Problem Set |
 | 3 | February 3rd - February 7th | Problem Set |
 | 4 | February 10th - February 14th | Problem Set |
@@ -26,7 +26,7 @@ category: "problem_sets"
 | 12 | April 14th - April 18th | Problem Set |
 | 13 | April 21st - April 25th | Problem Set |
 
-## Review Sessions
+## Review Session Information
 
 | Assessment | Date | Time | Resources |
 |:----------:|:----:|:----:|:---------:|

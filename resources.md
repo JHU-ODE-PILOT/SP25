@@ -4,7 +4,7 @@ title: "Resources"
 category: "resource"
 ---
 
-## Archive Documents
+## Archives
 
 - [PILOT Archives](https://jhu-ode-pilot.github.io):
     - Archived documents for Past PILOT term, feel free to check out the documents for practices purposes.
