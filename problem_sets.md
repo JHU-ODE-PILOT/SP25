@@ -12,7 +12,7 @@ category: "problem_sets"
 
 | Week Number | Dates | Resources |
 |:-----------:|:-----:|:---------:|
-| **1 (Upcoming)** | January 21st - January 23rd | [Problem Set]({{site.baseurl}}/resources/PSets/1.pdf) [Solutions]({{site.baseurl}}/resources/PSets/1-Soln.pdf) |
+| **1 (Upcoming)** | January 21st - January 23rd | [Problem Set]({{site.baseurl}}/resources/PSets/PS1.pdf) &nbsp; [Solutions]({{site.baseurl}}/resources/PSets/PS1-Soln.pdf) |
 | 2 | January 27th - January 30th |  |
 | 3 | February 3rd - February 6th |  |
 | 4 | February 10th - February 13th |  |
