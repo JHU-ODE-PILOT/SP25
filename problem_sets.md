@@ -28,8 +28,8 @@ category: "problem_sets"
 
 ## Review Session Information
 
-| Assessment | Date | Time | Resources |
-|:----------:|:----:|:----:|:---------:|
-| Midterm 1 |  |  |  |
-| Midterm 2 |  |  |  |
-| Final |  |  |  |
+| Assessment | Exam Date | Review Session Time | Resources |
+|:----------:|:---------:|:-------------------:|:---------:|
+| Midterm 1 | February 19th |  |  |
+| Midterm 2 | April 2nd |  |  |
+| Final | May 9th |  |  |
