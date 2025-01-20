@@ -32,5 +32,5 @@ category: "home"
 
 ## Announcements
 
-- **1/6/2025.** Welcome to PILOT for Differential Equations.
 - **1/20/2025.** The PILOT session for 1/20/2025 is optional, please check with your PILOT leader for details.
+- **1/6/2025.** Welcome to PILOT for Differential Equations.
