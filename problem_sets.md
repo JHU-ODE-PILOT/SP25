@@ -12,8 +12,8 @@ category: "problem_sets"
 
 | Week Number | Dates | Problem Set | Resources |
 |:-----------:|:-----:|:-----------:|:---------:|
-| **1 (Current)** | January 21st - January 23rd | [Compact]({{site.baseurl}}/PSets/PSet1-ODEs-SP25-Compact.pdf) &nbsp; [Printable]({{site.baseurl}}/PSets/PSet1-ODEs-SP25-Extended.pdf) | [Solutions]({{site.baseurl}}/PSets/PSet1-ODEs-SP25-Solutions.pdf) |
-| 2 | January 27th - January 30th |  |  |
+| 1 | January 21st - January 23rd | [Compact]({{site.baseurl}}/PSets/PSet1-ODEs-SP25-Compact.pdf) &nbsp; [Printable]({{site.baseurl}}/PSets/PSet1-ODEs-SP25-Extended.pdf) | [Solutions]({{site.baseurl}}/PSets/PSet1-ODEs-SP25-Solutions.pdf) |
+| **🌟 2 🌟** | January 27th - January 30th | [Compact]({{site.baseurl}}/PSets/PSet2-ODEs-SP25-Compact.pdf) &nbsp; [Printable]({{site.baseurl}}/PSets/PSet2-ODEs-SP25-Extended.pdf) | [Solutions]({{site.baseurl}}/PSets/PSet2-ODEs-SP25-Solutions.pdf) |
 | 3 | February 3rd - February 6th |  |  |
 | 4 | February 10th - February 13th |  |  |
 | 5 | February 17th - February 20th |  |  |
