@@ -19,7 +19,7 @@ category: "resource"
 | Prof. Bernstein | Fall 2014| [Homepage](https://math.jhu.edu/~bernstein/math306/index.html)|
 
 
-- [Pual's Online Notes for ODEs](https://tutorial.math.lamar.edu/Classes/DE/DE.aspx):
+- [Paul's Online Notes for ODEs](https://tutorial.math.lamar.edu/Classes/DE/DE.aspx):
     - A popular site contributed by a professor includes notes and exercises from various classes. Note that more than ODEs can be found on this site, and the syllabus could vary among these classes.
 
 ## Important Documents
