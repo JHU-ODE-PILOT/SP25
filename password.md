@@ -6,7 +6,7 @@ category: "problem_sets"
 
 | Number | Password |
 |-------:|:--------:|
-|$\textsc{Admin}$|`sp25`|
+|Admin|`sp25`|
 |1|`1682`|
 |2|`7716`|
 |3|`3495`|
