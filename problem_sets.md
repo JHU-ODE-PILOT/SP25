@@ -16,10 +16,10 @@ Here are the problem sets for each week of PILOT learning.
     - The compact version will have all questions piled together, just like traditional PILOT sets. The printable version will have each question starting on a new page, which is more optimal if you were to print it out or doing it over a tablet.
     - The solution is passcode protected to encourage attendance to PILOT sessions, ask your PILOT leader while you are attending that session.
 - Additional resources would be tagged or linked in the resources' column.
-    - Also check out the [Resources]({{site.baseurl}}/resources.html) for additional notes and practices.
+    - Also check out the [Resources]({{site.baseurl}}/resources.html#important-documents) for additional notes and practices.
 
-| Week Number | Dates | Problem Set | Resources |
-|:-----------:|:-----:|:-----------:|:---------:|
+| Week Number | Dates | Problem Set | Additional Resources |
+|:-----------:|:-----:|:-----------:|:---------------------|
 | 1 | January 21st - January 23rd | [Compact]({{site.baseurl}}/PSets/1C.pdf) &nbsp; [Printable]({{site.baseurl}}/PSets/1E.pdf) | [Solutions]({{site.baseurl}}/PSets/1S.pdf) |
 | 2 | January 27th - January 30th | [Compact]({{site.baseurl}}/PSets/2C.pdf) &nbsp; [Printable]({{site.baseurl}}/PSets/2E.pdf) | [Solutions]({{site.baseurl}}/PSets/2S.pdf) |
 | 3 | February 3rd - February 6th | [Compact]({{site.baseurl}}/PSets/3C.pdf) &nbsp; [Printable]({{site.baseurl}}/PSets/3E.pdf) | [Solutions]({{site.baseurl}}/PSets/3S.pdf)|
@@ -42,8 +42,8 @@ For the in-class assessments, we will prepare corresponding review resources.
     - If you wish to time the practice sets, each problem shall take approximately 12.5 minutes.
     - The solutions will be released after the review session ends.
 
-| Assessment | Exam Date | Review Session Time | Resources |
-|:----------:|:---------:|:-------------------:|:---------:|
+| Assessment | Exam Date | Review Session Time | Additional Resources |
+|:----------:|:---------:|:-------------------:|:---------------------|
 | Midterm 1 | February 19th | February 16th 2pm <br> (Gilman 50) | [Practice Set]({{site.baseurl}}/PSets/M1.pdf) &nbsp; [Solutions]({{site.baseurl}}/PSets/M1S.txt) &nbsp; [Slides]({{site.baseurl}}/PSets/S1.pdf) |
 | Midterm 2 | April 2nd |  |  |
 | Final | May 9th |  |  |

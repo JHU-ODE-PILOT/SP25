@@ -15,6 +15,7 @@ category: "home"
 - Term: Spring 2025
 - Dates: Between January 21st and April 24th (inclusive). 
   - Except for Spring break (March 17th - March 21st).
+  - Note that there will not be PILOT session on Monday, April 28th, even though there will be class during the day.
 - Please refer to your leader for their email, location, time, and other information.
 
 ## PILOT Information
