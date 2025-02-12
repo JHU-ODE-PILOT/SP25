@@ -36,3 +36,11 @@ category: "home"
 - **2/7/2025.** Information about [midterm 1 review session]({{site.baseurl}}/problem_sets.html#review-session-information) is released.
 - **1/20/2025.** The PILOT session for 1/20/2025 is optional, please check with your PILOT leader for details.
 - **1/6/2025.** Welcome to PILOT for Differential Equations.
+
+
+<div class='admonition danger'>
+  <div class='title'>Important!</div>
+  <div class='content' markdown='1'>
+This webpage will be disabled during the period in which an exam is given.
+  </div>
+</div>
