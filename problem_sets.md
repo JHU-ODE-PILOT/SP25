@@ -8,6 +8,13 @@ category: "problem_sets"
     The weekly problem sets will be updated here.
 </div>
 
+<div class='admonition info'>
+  <div class='title'>Important!</div>
+  <div class='content' markdown='1'>
+The problem sets and solutions might contain error(s): We are trying our best to fix any as we catch them. Please always refresh for the newest version. If you still notice any, please [contact us]({{site.baseurl}}/credits.html).
+  </div>
+</div>
+
 ## Weekly Problem Sets
 
 Here are the problem sets for each week of PILOT learning.
