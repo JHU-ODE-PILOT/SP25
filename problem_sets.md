@@ -51,6 +51,6 @@ For the in-class assessments, we will prepare corresponding review resources.
 
 | Assessment | Exam Date | Review Session Time | Additional Resources |
 |:----------:|:---------:|:-------------------:|:---------------------|
-| Midterm 1 | February 19th | February 16th 2pm <br> (Gilman 50) | [Practice Set]({{site.baseurl}}/PSets/M1.pdf) &nbsp; [Solutions]({{site.baseurl}}/PSets/M1S.txt) &nbsp; [Slides]({{site.baseurl}}/PSets/S1.pdf) |
+| Midterm 1 | February 19th | February 16th 2pm <br> (Gilman 50) | [Practice Set]({{site.baseurl}}/PSets/M1.pdf) &nbsp; [Solutions]({{site.baseurl}}/PSets/M1S.pdf) &nbsp; [Slides]({{site.baseurl}}/PSets/S1.pdf) |
 | Midterm 2 | April 2nd |  |  |
 | Final | May 9th |  |  |
