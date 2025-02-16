@@ -41,6 +41,12 @@ category: "home"
 <div class='admonition danger'>
   <div class='title'>Important!</div>
   <div class='content' markdown='1'>
-This webpage will be disabled during the period in which an exam is given.
+This webpage will be disabled during the period in which an exam is given, that is:
+
+- February 19th, around 11:30am to 2:30pm.
+- April 2nd, around 11:30am to 2:30pm.
+- May 9th, around 8:30am to 12:00pm.
+
+Please plan your review accordingly. Accessing the site during the above period might intrigue reloading bugs with the page which prevents you from accessing the site for an extended period.
   </div>
 </div>
