@@ -31,8 +31,8 @@ Here are the problem sets for each week of PILOT learning.
 | 2 | January 27th - January 30th | [Compact]({{site.baseurl}}/PSets/2C.pdf) &nbsp; [Printable]({{site.baseurl}}/PSets/2E.pdf) | [Solutions]({{site.baseurl}}/PSets/2S.pdf) |
 | 3 | February 3rd - February 6th | [Compact]({{site.baseurl}}/PSets/3C.pdf) &nbsp; [Printable]({{site.baseurl}}/PSets/3E.pdf) | [Solutions]({{site.baseurl}}/PSets/3S.pdf)|
 | 4 | February 10th - February 13th | [Compact]({{site.baseurl}}/PSets/4C.pdf) &nbsp; [Printable]({{site.baseurl}}/PSets/4E.pdf) | [Solutions]({{site.baseurl}}/PSets/4S.pdf) <br> [Review Session on 2/16](#review-session-information) |
-| **🌟 5 🌟** | February 17th - February 20th | [Compact]({{site.baseurl}}/PSets/5C.pdf) &nbsp; [Printable]({{site.baseurl}}/PSets/5E.pdf) | [Solutions]({{site.baseurl}}/PSets/5S.pdf) (*No passcode*) |
-| 6 | February 24th - February 27th |  |  |
+| 5 | February 17th - February 20th | [Compact]({{site.baseurl}}/PSets/5C.pdf) &nbsp; [Printable]({{site.baseurl}}/PSets/5E.pdf) | [Solutions]({{site.baseurl}}/PSets/5S.pdf) (*No passcode*) |
+| **🌟 6 🌟** | February 24th - February 27th | [Compact]({{site.baseurl}}/PSets/6C.pdf) &nbsp; [Printable]({{site.baseurl}}/PSets/6E.pdf) | [Solutions]({{site.baseurl}}/PSets/6S.pdf) |
 | 7 | March 3rd - March 6th |  |  |
 | 8 | March 10th - March 13th |  |  |
 | 9 | March 17th - March 20th |  |  |
@@ -52,5 +52,5 @@ For the in-class assessments, we will prepare corresponding review resources.
 | Assessment | Exam Date | Review Session Time | Additional Resources |
 |:----------:|:---------:|:-------------------:|:---------------------|
 | Midterm 1 | February 19th | February 16th 2pm <br> (Gilman 50) | [Practice Set]({{site.baseurl}}/PSets/M1.pdf) &nbsp; [Solutions]({{site.baseurl}}/PSets/M1S.pdf) &nbsp; [Slides]({{site.baseurl}}/PSets/S1.pdf) |
-| Midterm 2 | April 2nd |  |  |
+| Midterm 2 | April 2nd | *Check back by March 23rd* |  |
 | Final | May 9th |  |  |
