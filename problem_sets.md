@@ -35,7 +35,8 @@ Here are the problem sets for each week of PILOT learning.
 | **🌟 6 🌟** | February 24th - February 27th | [Compact]({{site.baseurl}}/PSets/6C.pdf) &nbsp; [Printable]({{site.baseurl}}/PSets/6E.pdf) | [Solutions]({{site.baseurl}}/PSets/6S.pdf) |
 | 7 | March 3rd - March 6th |  |  |
 | 8 | March 10th - March 13th |  |  |
-| 9 | March 17th - March 20th |  |  |
+| ❌ | March 17th - March 20th | *Spring Break* |  |
+| 9 | March 24th - March 27th |  |  |
 | 10 | March 31st - April 3rd |  |  |
 | 11 | April 7th - April 10th |  |  |
 | 12 | April 14th - April 17th |  |  |
