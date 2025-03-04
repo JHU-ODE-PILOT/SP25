@@ -35,7 +35,7 @@ Here are the problem sets for each week of PILOT learning.
 | 6 | February 24th - February 27th | [Compact]({{site.baseurl}}/PSets/6C.pdf) &nbsp; [Printable]({{site.baseurl}}/PSets/6E.pdf) | [Solutions]({{site.baseurl}}/PSets/6S.pdf) |
 | **🌟 7 🌟** | March 3rd - March 6th | [Compact]({{site.baseurl}}/PSets/7C.pdf) &nbsp; [Printable]({{site.baseurl}}/PSets/7E.pdf) | [Solutions]({{site.baseurl}}/PSets/7S.pdf) |
 | 8 | March 10th - March 13th |  |  |
-| 🏖️ | March 17th - March 20th | *Spring Break* |  |
+| 🏖️ | March 17th - March 20th | [Spring Break Special Set]({{site.baseurl}}/PSets/SB.pdf) | [Solutions]({{site.baseurl}}/PSets/SBS.pdf) (*No passcode*) |
 | 9 | March 24th - March 27th |  |  |
 | 10 | March 31st - April 3rd |  |  |
 | 11 | April 7th - April 10th |  |  |
@@ -47,11 +47,11 @@ Here are the problem sets for each week of PILOT learning.
 For the in-class assessments, we will prepare corresponding review resources.
 - The review session information will be updated approximately a week before the assessment.
 - We will provide a practice set, its solutions, and a slide deck of related materials.
-    - If you wish to time the practice sets, each problem shall take approximately 12.5 minutes.
+    - If you wish to time the practice sets, each problem shall take approximately 12.5 to 15 minutes.
     - The solutions will be released after the review session ends.
 
 | Assessment | Exam Date | Review Session Time | Additional Resources |
 |:----------:|:---------:|:-------------------:|:---------------------|
 | Midterm 1 | February 19th | February 16th 2pm <br> (Gilman 50) | [Practice Set]({{site.baseurl}}/PSets/M1.pdf) &nbsp; [Solutions]({{site.baseurl}}/PSets/M1S.pdf) &nbsp; [Slides]({{site.baseurl}}/PSets/S1.pdf) |
-| Midterm 2 | April 2nd | *Check back by March 23rd* |  |
+| Midterm 2 | April 2nd | *Check back by March 23rd* | [Practice Set]({{site.baseurl}}/PSets/M2.pdf) &nbsp; [Solutions]({{site.baseurl}}/PSets/M2S.pdf) &nbsp; [Slides]({{site.baseurl}}/PSets/S2.pdf) |
 | Final | May 9th |  |  |
