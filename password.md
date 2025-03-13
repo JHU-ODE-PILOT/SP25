@@ -14,3 +14,6 @@ category: "problem_sets"
 |5|no password|
 |6|`4923`|
 |7|`2127`|
+|8|`1392`|
+|9|`8557`|
+|10|no password|
