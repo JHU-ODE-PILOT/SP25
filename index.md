@@ -33,6 +33,7 @@ category: "home"
 
 ## Announcements
 
+- **3/18/2025.** Information about [midterm 2 review session]({{site.baseurl}}/problem_sets.html#review-session-information) is released.
 - **2/19/2025.** [Mid-semester survey]({{site.baseurl}}/surveys/mid-semester.html) is available, please provide any feedback.
 - **2/7/2025.** Information about [midterm 1 review session]({{site.baseurl}}/problem_sets.html#review-session-information) is released.
 - **1/20/2025.** The PILOT session for 1/20/2025 is optional, please check with your PILOT leader for details.
