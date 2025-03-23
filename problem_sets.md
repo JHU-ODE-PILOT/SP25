@@ -36,7 +36,7 @@ Here are the problem sets for each week of PILOT learning.
 | 7 | March 3rd - March 6th | [Compact]({{site.baseurl}}/PSets/7C.pdf) &nbsp; [Printable]({{site.baseurl}}/PSets/7E.pdf) | [Solutions]({{site.baseurl}}/PSets/7S.pdf) |
 | **🌟 8 🌟** | March 10th - March 13th | [Compact]({{site.baseurl}}/PSets/8C.pdf) &nbsp; [Printable]({{site.baseurl}}/PSets/8E.pdf) | [Solutions]({{site.baseurl}}/PSets/8S.pdf) |
 | 🏖️ | March 17th - March 20th | [Spring Break Special Set]({{site.baseurl}}/PSets/SB.pdf) | [Solutions]({{site.baseurl}}/PSets/SBS.pdf) (*No passcode*) |
-| 9 | March 24th - March 27th |  |  |
+| 9 | March 24th - March 27th | [Compact]({{site.baseurl}}/PSets/9C.pdf) &nbsp; [Printable]({{site.baseurl}}/PSets/9E.pdf) | [Solutions]({{site.baseurl}}/PSets/9S.pdf) <br> [Review Session on 3/29](#review-session-information) |
 | 10 | March 31st - April 3rd |  |  |
 | 11 | April 7th - April 10th |  |  |
 | 12 | April 14th - April 17th |  |  |
