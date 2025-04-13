@@ -39,7 +39,7 @@ Here are the problem sets for each week of PILOT learning.
 | 9 | March 24th - March 27th | [Compact]({{site.baseurl}}/PSets/9C.pdf) &nbsp; [Printable]({{site.baseurl}}/PSets/9E.pdf) | [Solutions]({{site.baseurl}}/PSets/9S.pdf) <br> [Review Session on 3/29](#review-session-information) |
 | 10 | March 31st - April 3rd | [Compact]({{site.baseurl}}/PSets/10C.pdf) &nbsp; [Printable]({{site.baseurl}}/PSets/10E.pdf) | [Solutions]({{site.baseurl}}/PSets/10S.pdf) (*No passcode*) |
 | **🌟 11 🌟** | April 7th - April 10th | [Compact]({{site.baseurl}}/PSets/11C.pdf) &nbsp; [Printable]({{site.baseurl}}/PSets/11E.pdf) | [Solutions]({{site.baseurl}}/PSets/11S.pdf) |
-| 12 | April 14th - April 17th | [Temporary]({{site.baseurl}}/PSets/12.pdf) | [Solutions]({{site.baseurl}}/PSets/12S.pdf) |
+| 12 | April 14th - April 17th | [Compact]({{site.baseurl}}/PSets/12C.pdf) &nbsp; [Printable]({{site.baseurl}}/PSets/12E.pdf) | [Solutions]({{site.baseurl}}/PSets/12S.pdf) |
 | 13 | April 21st - April 24th | [Temporary]({{site.baseurl}}/PSets/13.pdf) | [Solutions]({{site.baseurl}}/PSets/13S.pdf) |
 
 ## Review Session Information
