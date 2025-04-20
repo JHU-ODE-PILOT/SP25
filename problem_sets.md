@@ -38,9 +38,9 @@ Here are the problem sets for each week of PILOT learning.
 | 🏖️ | March 17th - March 20th | [Spring Break Special Set]({{site.baseurl}}/PSets/SB.pdf) | [Solutions]({{site.baseurl}}/PSets/SBS.pdf) (*No passcode*) |
 | 9 | March 24th - March 27th | [Compact]({{site.baseurl}}/PSets/9C.pdf) &nbsp; [Printable]({{site.baseurl}}/PSets/9E.pdf) | [Solutions]({{site.baseurl}}/PSets/9S.pdf) <br> [Review Session on 3/29](#review-session-information) |
 | 10 | March 31st - April 3rd | [Compact]({{site.baseurl}}/PSets/10C.pdf) &nbsp; [Printable]({{site.baseurl}}/PSets/10E.pdf) | [Solutions]({{site.baseurl}}/PSets/10S.pdf) (*No passcode*) |
-| **🌟 11 🌟** | April 7th - April 10th | [Compact]({{site.baseurl}}/PSets/11C.pdf) &nbsp; [Printable]({{site.baseurl}}/PSets/11E.pdf) | [Solutions]({{site.baseurl}}/PSets/11S.pdf) |
+| 11 | April 7th - April 10th | [Compact]({{site.baseurl}}/PSets/11C.pdf) &nbsp; [Printable]({{site.baseurl}}/PSets/11E.pdf) | [Solutions]({{site.baseurl}}/PSets/11S.pdf) |
 | 12 | April 14th - April 17th | [Compact]({{site.baseurl}}/PSets/12C.pdf) &nbsp; [Printable]({{site.baseurl}}/PSets/12E.pdf) | [Solutions]({{site.baseurl}}/PSets/12S.pdf) |
-| 13 | April 21st - April 24th | [Temporary]({{site.baseurl}}/PSets/13.pdf) | [Solutions]({{site.baseurl}}/PSets/13S.pdf) |
+| **🌟 13 🌟** | April 21st - April 24th | [Compact]({{site.baseurl}}/PSets/13C.pdf) &nbsp; [Printable]({{site.baseurl}}/PSets/13E.pdf) | [Solutions]({{site.baseurl}}/PSets/13S.pdf) |
 
 ## Review Session Information
 
@@ -54,4 +54,4 @@ For the in-class assessments, we will prepare corresponding review resources.
 |:----------:|:---------:|:-------------------:|:---------------------|
 | Midterm 1 | February 19th | February 16th 2pm <br> (Gilman 50) | [Practice Set]({{site.baseurl}}/PSets/M1.pdf) &nbsp; [Solutions]({{site.baseurl}}/PSets/M1S.pdf) &nbsp; [Slides]({{site.baseurl}}/PSets/S1.pdf) |
 | Midterm 2 | April 2nd | March 29th 12pm <br> ([zoom](https://JHUBlueJays.zoom.us/j/96598269569?pwd=6SK431bSwCgFr8gAUrAQFbVXEJXqYv.1)) | [Practice Set]({{site.baseurl}}/PSets/M2.pdf) &nbsp; [Solutions]({{site.baseurl}}/PSets/M2S.pdf) &nbsp; [Slides]({{site.baseurl}}/PSets/S2.pdf) |
-| Final | May 9th | *Check update by 4/28* |  |
+| Final | May 9th | April 30th 2pm <br> (TBD) | *Check update by 4/28* |
