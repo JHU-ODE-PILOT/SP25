@@ -42,6 +42,8 @@ Here are the problem sets for each week of PILOT learning.
 | 12 | April 14th - April 17th | [Compact]({{site.baseurl}}/PSets/12C.pdf) &nbsp; [Printable]({{site.baseurl}}/PSets/12E.pdf) | [Solutions]({{site.baseurl}}/PSets/12S.pdf) |
 | **🌟 13 🌟** | April 21st - April 24th | [Compact]({{site.baseurl}}/PSets/13C.pdf) &nbsp; [Printable]({{site.baseurl}}/PSets/13E.pdf) | [Solutions]({{site.baseurl}}/PSets/13S.pdf) <br> [Review Session on 4/30](#review-session-information) |
 
+- [Download all PSets]({{site.baseurl}}/PSets.zip)
+
 ## Review Session Information
 
 For the in-class assessments, we will prepare corresponding review resources.
@@ -54,4 +56,4 @@ For the in-class assessments, we will prepare corresponding review resources.
 |:----------:|:---------:|:-------------------:|:---------------------|
 | Midterm 1 | February 19th | February 16th 2pm <br> (Gilman 50) | [Practice Set]({{site.baseurl}}/PSets/M1.pdf) &nbsp; [Solutions]({{site.baseurl}}/PSets/M1S.pdf) &nbsp; [Slides]({{site.baseurl}}/PSets/S1.pdf) |
 | Midterm 2 | April 2nd | March 29th 12pm <br> ([zoom](https://JHUBlueJays.zoom.us/j/96598269569?pwd=6SK431bSwCgFr8gAUrAQFbVXEJXqYv.1)) | [Practice Set]({{site.baseurl}}/PSets/M2.pdf) &nbsp; [Solutions]({{site.baseurl}}/PSets/M2S.pdf) &nbsp; [Slides]({{site.baseurl}}/PSets/S2.pdf) |
-| Final | May 9th | April 30th 2pm <br> (TBD) | [Practice Set]({{site.baseurl}}/PSets/M3.pdf) &nbsp; [Solutions]({{site.baseurl}}/PSets/M3S.txt) &nbsp; [Slides]({{site.baseurl}}/PSets/S3.pdf) |
+| Final | May 9th | April 30th 2pm <br> Ames 218 | [Practice Set]({{site.baseurl}}/PSets/M3.pdf) &nbsp; [Solutions]({{site.baseurl}}/PSets/M3S.txt) &nbsp; [Slides]({{site.baseurl}}/PSets/S3.pdf) |

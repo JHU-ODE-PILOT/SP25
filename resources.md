@@ -33,3 +33,6 @@ category: "resource"
     - This document includes a table of Laplace transformation that most instructors would provide during their assessments. This document can be a helpful tool before your instructor has provided you with their version.
 - [Activity Slide]({{site.baseurl}}/resources/Activities.pdf):
     - Here is a set of slides deck that we could be playing with when we need some engagements. Feel free to play with some of it in advance.
+
+
+- [Download all Documents]({{site.baseurl}}/resources.zip)
