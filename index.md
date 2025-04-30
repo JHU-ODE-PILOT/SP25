@@ -33,6 +33,7 @@ category: "home"
 
 ## Announcements
 
+- **4/30/2025.** All materials have been up-to-date. Good luck on your exams.
 - **4/21/2025.** Information about [final review session]({{site.baseurl}}/problem_sets.html#review-session-information) is released.
 - **3/18/2025.** Information about [midterm 2 review session]({{site.baseurl}}/problem_sets.html#review-session-information) is released.
 - **2/19/2025.** [Mid-semester survey]({{site.baseurl}}/surveys/mid-semester.html) is available, please provide any feedback.
