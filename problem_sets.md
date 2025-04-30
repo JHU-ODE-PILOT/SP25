@@ -42,7 +42,7 @@ Here are the problem sets for each week of PILOT learning.
 | 12 | April 14th - April 17th | [Compact]({{site.baseurl}}/PSets/12C.pdf) &nbsp; [Printable]({{site.baseurl}}/PSets/12E.pdf) | [Solutions]({{site.baseurl}}/PSets/12S.pdf) |
 | 13 | April 21st - April 24th | [Compact]({{site.baseurl}}/PSets/13C.pdf) &nbsp; [Printable]({{site.baseurl}}/PSets/13E.pdf) | [Solutions]({{site.baseurl}}/PSets/13S.pdf) <br> [Review Session on 4/30](#review-session-information) |
 
-- [Download all PSets]({{site.baseurl}}/PSets.zip)
+- [Download all PSets & Solutions]({{site.baseurl}}/PSets.zip)
 
 ## Review Session Information
 
